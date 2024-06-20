@@ -8,8 +8,9 @@ In the project directory, you can run:
 
 ### `npm start`
 
-# Inject firebase.js file inside src
+<h1>Inject firebase.js file inside src</h1>
 ## Here is the code to COPY
+
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
